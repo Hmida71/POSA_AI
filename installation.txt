@@ -1,0 +1,39 @@
+Installation Instructions Placeholder
+======================================
+
+❗ This file is a placeholder. Add proper installation steps here later.
+
+Overview:
+---------
+This file will eventually guide users through installing POSA AI.
+
+Recommended Sections:
+---------------------
+1. **System Requirements**
+   - Operating System (e.g., Windows 10+)
+   - RAM, Disk Space, Browser dependencies
+
+2. **Download Files**
+   - Where to download the latest installer
+   - Checksum/size info
+
+3. **Installation Steps**
+   1. Run `POSA-AI-Setup.exe` as administrator
+   2. Accept EULA, choose installation folder
+   3. Wait for installation to complete
+
+4. **Initial Configuration**
+   - Launch the app
+   - Enter API keys: OpenAI, Anthropic, Google Gemini
+
+5. **First Run**
+   - Example commands:
+     > "Search for the latest iPhone prices"
+
+6. **Troubleshooting (optional)**
+   - Common issues & tips
+
+Notes:
+------
+- Copy this to `docs/INSTALLATION.md` and expand
+- Keep this updated when you release new versions
