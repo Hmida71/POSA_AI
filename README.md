@@ -33,7 +33,7 @@ Watch AI navigate websites with visual click indicators and real-time browser sc
 
 ### 💬 **Natural Language Commands**
 Simply tell POSA what you want:
-- *"Book a flight to NYC"*
+- *"Go to Amazon, search for Samsung Galaxy S25"*
 - *"Find the best laptop under $1000"*
 - *"Compare prices across multiple sites"*
 
