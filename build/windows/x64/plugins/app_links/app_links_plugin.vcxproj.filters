@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\app_links_plugin_c_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\app_links_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\include\app_links\app_links_plugin_c_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\app_links_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{69A08481-6F5C-3910-B3AE-062C380576C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{22C33AB8-F688-3608-84D1-21FB09DE2045}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\POSA_USE_FLUTTER_APP\BUILD\WINDOWS\X64\CMAKEFILES\A93CD975AA7928DF0C200EF763560FEA\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

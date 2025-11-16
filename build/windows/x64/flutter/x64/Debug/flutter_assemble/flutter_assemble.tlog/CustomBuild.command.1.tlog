@@ -1,0 +1,28 @@
+^C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\POSA_USE_FLUTTER_APP\BUILD\WINDOWS\X64\CMAKEFILES\DE85D3AE6A1D34C63BEBF525824FB780\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app\windows\flutter\ephemeral" "PROJECT_DIR=C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app" "FLUTTER_TARGET=C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app\lib\main.dart" DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuMzUuNg==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049OWY0NTVkMjQ4Ng==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049ZDI5MTM2MzJhNA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My45LjI= DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\posa_use_flutter_app\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\POSA_USE_FLUTTER_APP\BUILD\WINDOWS\X64\CMAKEFILES\3A78D2DAA9039AA0EA282AEEA80631F7\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\M.2 GHOST\PROJECTS\POSA AI-PROJECTS\POSA_USE_FLUTTER_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/M.2 GHOST/PROJECTS/POSA AI-PROJECTS/posa_use_flutter_app/windows" "-BC:/M.2 GHOST/PROJECTS/POSA AI-PROJECTS/posa_use_flutter_app/build/windows/x64" --check-stamp-file "C:/M.2 GHOST/PROJECTS/POSA AI-PROJECTS/posa_use_flutter_app/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
