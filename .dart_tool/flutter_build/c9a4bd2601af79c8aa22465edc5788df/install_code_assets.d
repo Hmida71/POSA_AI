@@ -1,0 +1,1 @@
+ C:\\M.2\ GHOST\\PROJECTS\\POSA\ AI-PROJECTS\\posa_use_flutter_app\\.dart_tool\\flutter_build\\c9a4bd2601af79c8aa22465edc5788df\\native_assets.json: 

@@ -1,0 +1,85 @@
+# 📱 Flutter Template App
+name: posa_ai_app
+description: "A new Flutter project, By TM71."
+publish_to: "none"
+
+# 📦 Version Info
+version: 1.0.5+5
+
+# 🛠️ Environment
+environment:
+  sdk: ^3.5.1
+
+# 📚 Dependencies
+dependencies:
+  # 🎯 Core
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # 🎨 UI Components
+  cupertino_icons: ^1.0.8
+  ionicons: ^0.2.2
+  flutter_svg: ^2.1.0
+  cached_network_image: ^3.4.1
+
+  # 🔐 Authentication & Backend
+  supabase_flutter: ^2.9.0
+  google_sign_in: ^6.2.2
+
+  # 🏗️ State Management
+  provider: ^6.1.5
+
+  # 🌐 Networking & Data
+  http: ^1.4.0
+  shared_preferences: ^2.5.3
+
+  # 🌍 Localization
+  intl: ^0.20.2  # ✅ Updated from ^0.19.0
+  localization: ^2.1.1
+
+  # 🔗 Utilities
+  url_launcher: ^6.3.1
+
+  # WebSocket communication
+  socket_io_client: ^2.0.3+1
+  
+  # JSON handling
+  json_annotation: ^4.8.1
+  path: ^1.9.0
+  path_provider: ^2.1.5
+  archive: ^3.4.10
+
+  # 🔧 App
+  window_manager: ^0.3.7
+  rename: ^3.1.0
+
+# 🧪 Development Dependencies
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.7
+  json_serializable: ^6.7.1
+
+# 📱 Flutter Configuration
+flutter:
+  uses-material-design: true
+
+  # 🖼️ Assets
+  assets:
+    - assets/images/logo.png
+    - lib/i18n/en_US.json
+    - lib/i18n/ar_DZ.json
+    - backend/
+    # - scripts/
+
+  # 🎨 Fonts Configuration
+  # Uncomment and modify as needed:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
