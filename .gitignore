@@ -1,6 +1,3 @@
-@"
+﻿@"
 # Ignore ONLY these 3 folders
-build/
-windows/
-installer_source/
 "@ | Out-File -FilePath .gitignore -Encoding utf8
